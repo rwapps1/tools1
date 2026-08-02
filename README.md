@@ -2,7 +2,7 @@
 
 Upload a spreadsheet, apply a saved report, done.
 
-**Live app:** https://rwapps1.github.io/tools1/
+**Live app:** https://rwapps1.github.io/b1/
 
 Report Builder has two modes for working with spreadsheet exports (CSV or Excel) — building repeatable, saved reports, and comparing two versions of a file to see exactly what changed.
 
